@@ -1,0 +1,7 @@
+first git commit
+
+Second got add 
+
+commit message
+
+new Text
