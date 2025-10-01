@@ -2,3 +2,6 @@ Ebenezer
 Solomon
 Marc
 Gabriel
+
+
+Some else worked on this part of the project.
